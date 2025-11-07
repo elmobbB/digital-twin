@@ -1,0 +1,17 @@
+{
+  "full_name": "Elmomo",
+  "name": "Elmomo Carrot",
+  "current_role": "Software engineer",
+  "location": "Hong Kong",
+  "email": "elmomo@gmail.com",
+  "linkedin": "linkedin.com/in/elmomo",
+  "specialties": ["AI engineering", "Machine learning", "Deep learning"],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Master of Science",
+      "institution": "The University of Hong Kong",
+      "year": "2024"
+    }
+  ]
+}
